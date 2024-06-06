@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "farmersclimate:items/stick_fish_cooked"
+    }
+} 
